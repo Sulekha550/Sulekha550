@@ -9,7 +9,7 @@ Focused on writing clean code and building real-world impactful projects.
 
 💻 Tech Stack:
 
-Frontend: React.js, HTML5, CSS3, JavaScript, Tailwind CSS
+Frontend: React.js, HTML5, CSS3, JavaScript, Tailwind CSS,Scss
 
 Backend: Node.js, Express.js
 
